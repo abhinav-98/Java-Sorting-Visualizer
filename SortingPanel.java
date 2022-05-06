@@ -17,7 +17,7 @@ public class SortingPanel extends JPanel {
     JButton start = new JButton("start");
     JButton reset = new JButton("reset");
 
-    private boolean isRunning; //variable to check if algorithm is running or not
+    private boolean isRunning;//variable to check if algorithm is running or not
 
     public SortingPanel() {
         this.array_index = 0;
