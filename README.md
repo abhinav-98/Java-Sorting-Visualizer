@@ -1,3 +1,3 @@
 # Java-Sorting-Visualizer
-This visualizer contains bubble sorting algorithm visualizer.
+This visualizer contains bubble sorting algorithm.
 
